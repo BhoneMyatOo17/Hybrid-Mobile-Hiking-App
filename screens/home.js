@@ -63,7 +63,7 @@ const Home = ({navigation}) => {
       // Falls back to Bangkok coordinates
     }
     
-    const API_KEY = '8e2721fa01b837c760754130a85b1cbe'; //OpenWeatherMap API key
+    const API_KEY = ///
     
     const response = await fetch(
       //fetching weather data from coordinates
