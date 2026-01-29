@@ -3,17 +3,17 @@
 ### Preview Images ###
 <p align="center">
   <img src="./screenshot1.png" width="200"><br>
-  <i>Image 1</i>
+  <i>Welcome Page</i>
 </p>
 <p align="center">
   <img src="./screenshot2.png" width="200"><br>
-  <i>Image 2</i>
+  <i>Home Page</i>
 </p>
 <p align="center">
   <img src="./screenshot3.png" width="200"><br>
-  <i>Image 3</i>
+  <i>Hike List</i>
 </p>
 <p align="center">
   <img src="./screenshot4.png" width="200"><br>
-  <i>Image </i>
+  <i>Hike Record</i>
 </p>
